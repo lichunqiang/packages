@@ -16,3 +16,6 @@
 [submodule "yii2-webuploader"]
 	path = yii2-webuploader
 	url = git@github.com:lxpgw/yii2-webuploader.git
+[submodule "basic-app-seed"]
+	path = yii2-webuploader
+	url = git@github.com:lxpgw/basic-app-seed.git
