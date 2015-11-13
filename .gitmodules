@@ -1,0 +1,18 @@
+[submodule "wx_crawler"]
+	path = wx_crawler
+	url = git@github.com:lichunqiang/wx_crawler.git
+[submodule "ting"]
+	path = ting
+	url = git@github.com:lichunqiang/ting.git
+[submodule "next"]
+	path = next
+	url = git@github.com:lichunqiang/next.git
+[submodule "functions"]
+	path = functions
+	url = git@github.com:lichunqiang/functions.git
+[submodule "yii2-asset-enhance"]
+	path = yii2-asset-enhance
+	url = git@github.com:lxpgw/yii2-asset-enhance.git
+[submodule "yii2-webuploader"]
+	path = yii2-webuploader
+	url = git@github.com:lxpgw/yii2-webuploader.git
